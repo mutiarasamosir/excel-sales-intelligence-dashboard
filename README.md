@@ -1,5 +1,8 @@
 # Excel Sales Intelligence Dashboard
-
+## Dashboard File
+The complete Excel workbook, including the source dataset, analysis worksheets, PivotTables, and interactive dashboard, is available here:
+[Open Excel Sales Intelligence Dashboard](https://1drv.ms/x/c/41d8e4ffa6a6a0b6/IQBKWQaK0o_JTopbnKrhtqLQAVlA4WSDW0UARhY37DmB_RE?e=MAbVIA)
+For the best experience, open the workbook in Microsoft Excel to explore its interactive features.
 An interactive sales analysis dashboard built in Microsoft Excel using the UCI Online Retail dataset. This project explores revenue performance, monthly trends, country-level sales, and negative-quantity transactions to demonstrate practical Excel data analysis skills.
 
 ## Project Overview
